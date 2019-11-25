@@ -97,6 +97,7 @@ db.sqlite3
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/
 
 # Generated files
 .idea/**/contentModel.xml
@@ -161,3 +162,6 @@ fabric.properties
 
 # Python virtual environment
 venv/
+
+# sqlite3 database files
+*.sqlite3
